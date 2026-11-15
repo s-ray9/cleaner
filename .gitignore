@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+
+# VS Code
+/.vscode/*
+!/.vscode/extensions.json
+!/.vscode/settings.json
+
+# pesde
+/.pesde/
+/roblox_packages/
+
+# Rojo
+/sourcemap.json
+
+# Moonwave
+/.docusaurus/
+/build/
+/node_modules/
+
+# Project
+/dist/

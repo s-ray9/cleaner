@@ -1,0 +1,12 @@
+{
+  "luau-lsp.sourcemap.rojoProjectFile": "test.project.json",
+  "[json][jsonc][markdown][yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[lua][luau]": {
+    "editor.defaultFormatter": "JohnnyMorganz.stylua"
+  },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  }
+}

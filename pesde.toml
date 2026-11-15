@@ -1,0 +1,16 @@
+name = "s_ray9/cleaner"
+version = "0.1.0"
+description = "Reliable cleanup for Roblox with a composable API that stays simple when resource lifecycles get complicated."
+license = "MIT"
+authors = ["s_ray9 (https://github.com/s-ray9)"]
+repository = "https://github.com/s-ray9/cleaner"
+
+includes = ["pesde.toml", "README.md", "LICENSE", "src/**/*.luau"]
+
+[target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+[indices]
+default = "https://github.com/pesde-pkg/index"

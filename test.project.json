@@ -1,0 +1,16 @@
+{
+  "name": "Cleaner",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Cleaner": {
+        "$path": "src"
+      }
+    },
+    "ServerScriptService": {
+      "Tests": {
+        "$path": "tests"
+      }
+    }
+  }
+}

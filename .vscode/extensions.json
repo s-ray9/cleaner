@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "JohnnyMorganz.luau-lsp",
+    "JohnnyMorganz.stylua",
+    "tamasfe.even-better-toml"
+  ]
+}

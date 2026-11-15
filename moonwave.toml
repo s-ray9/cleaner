@@ -1,0 +1,11 @@
+title = "Cleaner"
+gitRepoUrl = "https://github.com/s-ray9/cleaner"
+gitSourceBranch = "main"
+
+[home]
+enabled = true
+
+[docusaurus]
+tagline = "Reliable cleanup for Roblox with a composable API that stays simple when resource lifecycles get complicated."
+url = "https://s-ray9.github.io"
+baseUrl = "/cleaner/"
